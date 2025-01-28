@@ -446,38 +446,42 @@ body {
 }
 
 .marquee-container {
-  background: #723cea;
-  color: white;
-  white-space: nowrap;
+  width: 100%;
   overflow: hidden;
-  position: relative;
-  padding: 20px 0;
+  background: #723CEA;
+  padding: 10px 0;
+  box-sizing: border-box;
 }
-.content-1 {
-  display: inline-block;
-  animation: scroll 40s linear infinite;
+
+.marquee {
+  display: flex;
+  gap: 30px;
+  white-space: nowrap;
+  animation: scroll 80s linear infinite;
 }
-.content-2 {
-  display: inline-block;
-  animation: scroll 40s linear infinite;
-  animation-delay: 40s;
+
+.marquee span {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 29.7px;
+  color: #fff;
+  padding: 10px 0;
 }
+
+.marquee svg {
+  flex-shrink: 0;
+}
+
 @keyframes scroll {
-  from {
-    transform: translateX(100%);
+  0% {
+    transform: translateX(0);
   }
-  to {
-    transform: translateX(-100%);
+  100% {
+    transform: translateX(-140%);
   }
-}
-.marquee-content span {
-  font-size: 20px;
-  margin: 0 20px;
-  display: inline-block;
-}
-.marquee-content span::before {
-  margin-right: 8px;
-  color: lightgray;
 }
 
 .prices {
@@ -741,19 +745,19 @@ footer > .container > .footerTitle > .checkButton > .checkButtonBlur {
   height: 40px;
 }
 
-.footerLinks > .link:hover > p{
+.footerLinks > .link:hover > p {
   color: #723cea;
 }
 
 .footerLinks a,
-.footerLinks p{
+.footerLinks p {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   color: #fff;
   text-decoration: none;
   padding: 8px 0;
-  transition: all .3s;
+  transition: all 0.3s;
   border-bottom: 1px solid transparent;
 }
 
