@@ -1,0 +1,37 @@
+<svg width="627" height="696" viewBox="0 0 627 696" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_87_2406" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="627" height="981">
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 630)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 560)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 490)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 420)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 350)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 280)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 210)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 140)" stroke="white"/>
+<line y1="-0.5" x2="627" y2="-0.5" transform="matrix(1 0 0 -1 0 70)" stroke="white"/>
+<g opacity="0.3">
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 8.84998 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 76.55 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 144.25 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 211.95 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 279.65 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 347.35 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 415.05 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 482.75 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 550.45 0)" stroke="white"/>
+<line y1="-0.5" x2="980" y2="-0.5" transform="matrix(0 1 1 0 618.15 0)" stroke="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_87_2406)">
+<g opacity="0.3" filter="url(#filter0_f_87_2406)">
+<circle cx="385" cy="385" r="385" transform="matrix(1 0 0 -1 -344 934)" fill="#723CEA"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_87_2406" x="-544" y="-36" width="1170" height="1170" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_87_2406"/>
+</filter>
+</defs>
+</svg>
